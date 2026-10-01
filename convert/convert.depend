@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1777006315 source:d:\software_data\code_blocks\stepper music\convert\main.cpp
-	<iostream>
-	<fstream>
-	<sstream>
-	<vector>
-	<cmath>
-	<cstdint>
-

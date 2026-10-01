@@ -1,0 +1,9 @@
+# Thư mục và file biên dịch
+bin/
+obj/
+*.exe
+*.o
+
+# Cấu hình Code::Blocks
+*.layout
+*.depend
